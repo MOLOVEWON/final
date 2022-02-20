@@ -7,5 +7,38 @@ body {
 }
 
 .clock {
-    font-size: 40px;
+    font-size: 80px;
+    margin-top: 170px;
+
+}
+
+.weather {
+    position: fixed;
+    top: 70px;
+    left: 40px;
+    display: flex;
+    font-size: 20px;
+}
+
+.city {
+    padding-right: 5px;
+}
+
+#greeting {
+    position: fixed;
+    top: 30px;
+    left: 40px;
+    display: flex;
+    font-size: 20px;
+}
+
+#login-form {
+    position: fixed;
+    top: 40px;
+    left: 40px;
+    font-size: 20px;
+}
+
+.todo-list {
+    text-align: center;
 }
