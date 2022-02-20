@@ -2,6 +2,10 @@
     display: none
 }
 
-.backgroundImg {
-    background-size:cover;
+body {
+    text-align: center;
+}
+
+.clock {
+    font-size: 40px;
 }
